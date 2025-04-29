@@ -1,0 +1,32 @@
+h1{
+    font-size: 18px; /* Ukuran huruf untuk judul h1 dibuat 18px */
+    font-weight: bold; /* Tulisannya ditebalkan */
+}
+
+.nama {
+    background-color: blue; /* Bagian ini dikasih latar belakang warna biru */
+    color: yellow; /* Tulisannya dikasih warna kuning biar kontras */
+}
+
+#nim{
+    color: blue; /* Warna tulisan untuk ID "nim" jadi biru */
+}
+
+p {
+    text-align: center; /* Semua paragraf teksnya dirapikan ke tengah */
+}
+
+p span{
+    color: white; /* Kalau ada <span> di dalam paragraf, warnanya jadi putih */
+    font-style: italic; /* untuk gaya tulisannya dibuat miring */
+}
+
+.teks2 span{
+    color: black; /* Tulisannya jadi warna hitam */
+    background-color: yellow; /* Latar belakangnya warna kuning, jadi kayak stabilo */
+    font-style: italic; /* gaya tulisannya juga miring */
+}
+
+h3 a{
+    color: black; /* Link (tautan) di dalam h3 warnanya hitam, bukan biru seperti biasanya */
+}
